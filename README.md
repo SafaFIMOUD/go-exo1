@@ -1,0 +1,4 @@
+# godictionary
+
+exo1
+
